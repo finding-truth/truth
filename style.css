@@ -1,0 +1,9 @@
+body {
+    text-align:center;
+    
+}
+
+.main {
+    display: inline-block;
+    width: 600px;
+}
